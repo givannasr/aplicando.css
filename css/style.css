@@ -1,0 +1,15 @@
+* {margin:0; padding:0;}
+h1 {
+color:aqua;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    color:blueviolet;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+input {
+    width: 200px;
+    background-color: rgba(0, 200, 255, 0.333);
+
+}
