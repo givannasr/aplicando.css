@@ -2,6 +2,9 @@
 .texto-principal {
     color: grey;
 }
-.texto-secundario {
-    color:rgb(125, 76, 188);
+#texto1{
+    background-color: aquamarine;
+}
+#texto2{
+    background-color: blueviolet;
 }
